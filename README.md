@@ -60,37 +60,3 @@ Whether it’s automating Odoo backups, optimizing Docker builds, or wiring up s
 ![VSCode](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
----
-
-### 📊 GitHub Analytics  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jouls0217&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jouls0217&theme=dark&hide_border=false" height="180em"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jouls0217&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150em"/>
-</p>
-
----
-
-### 🏆 Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jouls0217&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
-</p>
-
----
-
-### 🚀 Top Contributed Repositories  
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Jouls0217&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-</p>
-
----
-
-<p align="center">
-  <em>“Automate everything you can — the brain is for solving problems, not repeating them.”</em>
-</p>
-
-<!-- Built with curiosity, caffeine, and clean YAML -->
