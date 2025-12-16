@@ -11,21 +11,6 @@ Whether it’s automating Odoo backups, optimizing Docker builds, or wiring up s
 
 ---
 
-### 🌐 Connect With Me  
-<p align="left">
-  <a href="https://facebook.com/JLSuperalis" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/jouls.sprls" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/jlsuperalis" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
 ### ⚡ Tech Stack  
 
 #### 🧩 Odoo & Backend Development  
