@@ -23,13 +23,6 @@ I'm a developer who bridges **business logic with infrastructure** — building 
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jouls0217&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=714B67&icon_color=2496ED&text_color=c9d1d9&cache_seconds=3600" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jouls0217&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=714B67&text_color=c9d1d9&langs_count=8&cache_seconds=3600" />
-
-</div>
-
-<div align="center">
-
   <img src="https://streak-stats.demolab.com?user=jouls0217&theme=tokyonight&hide_border=true&background=0d1117&ring=714B67&fire=2496ED&currStreakLabel=714B67" />
 
 </div>
