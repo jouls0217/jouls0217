@@ -11,7 +11,7 @@
 **DevOps Engineer** working primarily on **AWS** — I build and maintain the infrastructure and delivery pipelines that production workloads run on.
 
 - ☁️ **AWS** — EKS, ECR, VPC, IAM, RDS, Route 53, CloudWatch, Cost Explorer
-- 🏗️ **Infrastructure as Code** — Terraform across multi-account / multi-region estates, with remote state, reusable modules, and environment isolation
+- 🏗️ **Infrastructure as Code** — Terraform across multiple AWS regions and environments (UAT, staging, production), with remote state, reusable modules, and strict isolation between environments
 - 🔁 **CI/CD** — GitHub Actions workflows for build, image publishing, and automated deployments
 - 📦 **Containers & Orchestration** — Docker image builds, Kubernetes manifests, rolling deploys on EKS
 - 💰 **Cost & Reliability** — tagging, cost allocation, right-sizing, and keeping spend visible per environment
